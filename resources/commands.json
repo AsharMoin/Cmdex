@@ -1,0 +1,24 @@
+{
+    "commands": [
+      {
+        "command": "cd",
+        "description": "Used to change the current working directory. For example, 'cd /home/user' moves you into the /home/user directory."
+      },
+      {
+        "command": "ls",
+        "description": "Lists the contents of the current directory. Options like '-l' provide more detail about each file."
+      },
+      {
+        "command": "pwd",
+        "description": "Prints the current working directory path."
+      },
+      {
+        "command": "mkdir",
+        "description": "Creates a new directory. For example, 'mkdir myfolder' creates a folder named myfolder."
+      },
+      {
+        "command": "rm",
+        "description": "Removes files or directories. Using '-r' (recursive) can remove entire directories."
+      }
+    ]
+  }
